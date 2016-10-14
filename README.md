@@ -1,2 +1,6 @@
-# hello-world
-the first github project
+#include<stdio.h>
+int main()
+{
+  printf("Hello World！\n");
+  return 0;
+}
